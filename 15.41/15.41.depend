@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1473301417 source:f:\张建威\c++\15.41\query.cpp
+	"Query.h"
+
+1473390299 f:\张建威\c++\15.41\query.h
+	<iostream>
+	<set>
+	<map>
+	<vector>
+	<algorithm>
+	<string>
+	<sstream>
+	<fstream>
+	<stdexcept>
+
+1473385358 source:f:\张建威\c++\15.41\query_base.cpp
+	"Query_base.h"
+
+1473388803 f:\张建威\c++\15.41\query_base.h
+	"Query.h"
+	<cctype>
+

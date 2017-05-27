@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1473219247 source:f:\张建威\c++\15.1\15.1.cpp
+	"Item_base.h"
+
+1473240335 f:\张建威\c++\15.1\item_base.h
+	<string>
+	<iostream>
+	<cctype>
+	<utility>
+	<vector>
+	<stdexcept>
+	<set>
+	<algorithm>
+

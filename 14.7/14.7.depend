@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1472731568 source:f:\张建威\c++\14.7\checkoutrecord.cpp
+	"CheckoutRecord.h"
+
+1472731569 f:\张建威\c++\14.7\checkoutrecord.h
+	<utility>
+	<vector>
+	<string>
+	<stdexcept>
+	<algorithm>
+	<iostream>
+	<cctype>
+
+1472723282 source:f:\张建威\c++\14.7\14.7.cpp
+	"CheckoutRecord.h"
+

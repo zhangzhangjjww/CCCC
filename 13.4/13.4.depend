@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457488802 source:f:\张建威\c++\13.4\13.4.cpp
+	<iostream>
+	"port.h"
+
+1457488802 f:\张建威\c++\13.4\port.h
+	<iostream>
+

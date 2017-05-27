@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472609387 source:f:\张建威\c++\13.14\exmp1.cpp
+	<iostream>
+	"Example.h"
+	<vector>
+
+1472609411 f:\张建威\c++\13.14\example.h
+	<iostream>
+

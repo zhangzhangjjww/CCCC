@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1474966994 source:f:\张建威\c++\16.45\handle.cpp
+	"Handle.h"
+
+1474966753 f:\张建威\c++\16.45\handle.h
+	<cctype>
+	<stdexcept>
+

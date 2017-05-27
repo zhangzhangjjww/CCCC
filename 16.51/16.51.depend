@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1474966994 source:f:\张建威\c++\16.51\handle.cpp
+	"Handle.h"
+
+1474966753 f:\张建威\c++\16.51\handle.h
+	<cctype>
+	<stdexcept>
+
+1473301417 source:f:\张建威\c++\16.51\query.cpp
+	"Query.h"
+
+1473390299 f:\张建威\c++\16.51\query.h
+	<iostream>
+	<set>
+	<map>
+	<vector>
+	<algorithm>
+	<string>
+	<sstream>
+	<fstream>
+	<stdexcept>
+

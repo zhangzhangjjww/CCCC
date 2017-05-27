@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1474858510 source:f:\张建威\c++\16.27\16.27.cpp
+	"find.h"
+
+1474858844 f:\张建威\c++\16.27\find.h
+	<vector>
+	<iostream>
+	<algorithm>
+	"middle.cpp"
+
+1474858906 f:\张建威\c++\16.27\middle.cpp
+
+1474858906 source:f:\张建威\c++\16.27\middle.cpp
+

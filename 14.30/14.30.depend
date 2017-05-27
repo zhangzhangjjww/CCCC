@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1472807877 source:f:\张建威\c++\14.30\checkedptr.cpp
+	"CheckedPtr.h"
+	"ScreenPtr.h"
+
+1472808092 f:\张建威\c++\14.30\checkedptr.h
+	<iostream>
+	<stdexcept>
+	<cctype>
+	"ScreenPtr.h"
+
+1472807959 f:\张建威\c++\14.30\screenptr.h
+	<iostream>
+	<cctype>
+	<string>
+
+1472785002 source:f:\张建威\c++\14.30\screenptr.cpp
+	"ScreenPtr.h"
+

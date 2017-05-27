@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472784144 source:f:\张建威\c++\14.20\screenptr.cpp
+	"ScreenPtr.h"
+
+1472784773 f:\张建威\c++\14.20\screenptr.h
+	<iostream>
+	<cctype>
+	<string>
+

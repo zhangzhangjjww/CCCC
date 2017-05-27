@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1456109014 source:f:\张建威\c++\12.2\12.2.cpp
+	<iostream>
+	"string2.h"
+
+1456108994 f:\张建威\c++\12.2\string2.h
+	<iostream>
+
+1456110132 source:f:\张建威\c++\12.2\string2.cpp
+	<cstring>
+	"string2.h"
+	<cctype>
+	<iostream>
+

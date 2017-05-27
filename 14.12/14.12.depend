@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472730704 source:f:\张建威\c++\14.12\sales_itrem.cpp
+	"Sales_item.h"
+
+1473046819 f:\张建威\c++\14.12\sales_item.h
+	<iostream>
+	<string>
+

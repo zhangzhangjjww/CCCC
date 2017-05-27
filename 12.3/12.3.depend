@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1456889407 source:f:\张建威\c++\12.3\12.3.cpp
+	<iostream>
+	"stock20.h"
+
+1456889394 f:\张建威\c++\12.3\stock20.h
+	<iostream>
+

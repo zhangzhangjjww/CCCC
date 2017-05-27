@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1472548210 source:f:\张建威\c++\12.13\12.13.cpp
+	<string>
+	<iostream>
+	"Screen.h"
+
+1472548210 f:\张建威\c++\12.13\screen.h
+	<string>
+	<iostream>
+
+1472548223 source:f:\张建威\c++\12.13\screen.cpp
+	<string>
+	"Screen.h"
+

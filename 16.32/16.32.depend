@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1474965271 source:f:\张建威\c++\16.32\queue.cpp
+	"Queue.h"
+
+1474965598 f:\张建威\c++\16.32\queue.h
+	<iostream>
+
+1474965424 source:f:\张建威\c++\16.32\16.32.cpp
+	"Queue.h"
+	"Queue.cpp"
+	<vector>
+
+1474965271 f:\张建威\c++\16.32\queue.cpp
+	"Queue.h"
+
